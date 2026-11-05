@@ -6,7 +6,7 @@ Openbare statische bestanden voor BDMNL-websites (GitHub Pages). **Geen geheimen
 
 | Pad | Versie | SHA-256 | SRI (sha384) |
 |---|---|---|---|
-| `chat/chatknop-3.7.js` | 3.7 | `c5544b5c5d95a23424dff66f6f6e68851e0ebc301a42f14c31b6b0b2b4a485e2` | `sha384-fGfWx1cNLx2uipzm4zozaNrXIy6r6bxYG2otrjqWTaLfnhXetatUGwqiaWDUKZFH` |
+| `chat/chatknop-3.7.js` | 3.7 | `ff492f7751f5f81649dfae65bb1482edb7fdf5034393342ed0624e44d7809139` | `sha384-6b+fO1jcFOM6bLZ6DY8p41xE/zo5GVMwYrLnTuCj9lzGfML/7C4GS3OA1WYaghiC` |
 
 ## Werkwijze nieuwe versie
 1. Nieuw bestand `chat/chatknop-X.Y.js` toevoegen; bestaande versies **nooit** wijzigen of verwijderen (rollback).
